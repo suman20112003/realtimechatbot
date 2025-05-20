@@ -78,4 +78,3 @@ Feel free to fork the repo and submit a pull request. Contributions are welcome!
 📄 License
 This project is licensed under the MIT License.
 
-Would you like me to auto-generate this `README.md` as a file you can download? Or help with the upcoming CSS layout and styling next?
