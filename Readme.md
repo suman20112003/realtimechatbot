@@ -56,9 +56,7 @@ nodemon index or node index
 Make sure the backend runs on http://localhost:5000 by default.
 
 3. Setup the frontend
-bash
-Copy
-Edit
+
 cd ../client
 npm install
 npm run dev  # Runs on http://localhost:5173
@@ -79,11 +77,5 @@ Feel free to fork the repo and submit a pull request. Contributions are welcome!
 
 📄 License
 This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
 
 Would you like me to auto-generate this `README.md` as a file you can download? Or help with the upcoming CSS layout and styling next?
